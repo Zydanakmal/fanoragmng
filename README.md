@@ -10,5 +10,6 @@ $ pkg install git
 $ git clone https://github.com/Zydanakmal/fanoragmng
 
 $ cd fanoragmng
+
 $ python2 fanoragmng.py
 ```
