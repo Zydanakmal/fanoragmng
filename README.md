@@ -11,5 +11,5 @@ $ git clone https://github.com/Zydanakmal/fanoragmng
 
 $ cd fanoragmng
 
-$ python2 fanoragmng.py
+$ python2 fanoragmng_enc.py
 ```
